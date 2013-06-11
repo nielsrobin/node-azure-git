@@ -1,2 +1,4 @@
-example code for pushing github code to azure
-=============================================
+Just testing how github works with azure
+========================================
+Works pretty well :).
+
